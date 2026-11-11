@@ -26,8 +26,7 @@ The project includes the Maven Wrapper, so a separate Maven installation is not 
 3. Start the application from the backend directory:
 
    ```powershell
-   cd backend
-   .\mvnw spring-boot:run
+   
    ```
 
 The application listens on port `8282`:
